@@ -1,0 +1,3 @@
+<**/*.ml> or <**/*.mli>: ocaml, debug
+<yaxpo.cma>: ocaml, library, debug
+<yaxpo.cmxa>: ocaml, native, library, debug
